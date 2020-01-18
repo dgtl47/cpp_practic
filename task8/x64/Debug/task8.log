@@ -1,0 +1,3 @@
+﻿  task8.cpp
+C:\Users\79788\Documents\GitHub\cpp_practic\task8\task8.cpp(28): error C4700:  использована неинициализированная локальная переменная "calculate_switch"
+C:\Users\79788\Documents\GitHub\cpp_practic\task8\task8.cpp(31): error C4700:  использована неинициализированная локальная переменная "b"
